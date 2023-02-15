@@ -1,0 +1,2 @@
+#!/bin/bash
+RESULT=$(expr $TRUEKNOWLEDGE + 128)
